@@ -4,6 +4,8 @@
   "description": "The super hutspiel",
   "main": "app.js",
   "scripts": {
+    "lint": "eslint app.js",
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,5 +20,8 @@
   "homepage": "https://github.com/PascalPamme/Hutspiel#readme",
   "dependencies": {
     "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "eslint": "^8.15.0"
   }
 }
