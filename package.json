@@ -1,0 +1,22 @@
+{
+  "name": "hutspiel",
+  "version": "1.0.0",
+  "description": "The super hutspiel",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PascalPamme/Hutspiel.git"
+  },
+  "author": "Pascal Pamme",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PascalPamme/Hutspiel/issues"
+  },
+  "homepage": "https://github.com/PascalPamme/Hutspiel#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
